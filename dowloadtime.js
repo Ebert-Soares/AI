@@ -1,2 +1,19 @@
-const tf = require('./src/tf.min.js')
-console.log('aaaa');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const tf = require('@tensorflow/tfjs');
+require('@tensorflow/tfjs-node');
